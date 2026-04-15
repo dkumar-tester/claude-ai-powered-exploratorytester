@@ -1,9 +1,11 @@
 # Dependencies
 node_modules/
 
-# Credentials — never commit these
+# Credentials — never commit these (use *.template.json as reference)
 config.json
 auth/auth-state.json
+!config.template.json
+!auth/auth-state.template.json
 
 # Playwright output
 test-results/

@@ -1,0 +1,7 @@
+{
+  "name": "ApplicationName",
+  "url": "https://your-app-url.com",
+  "username": "your-username",
+  "password": "your-password",
+  "apiKey": "sk-ant-your-claude-api-key"
+}

@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "cookie-name",
+      "value": "cookie-value",
+      "domain": "your-app-domain.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://your-app-domain.com",
+      "localStorage": [
+        {
+          "name": "local-storage-key",
+          "value": "local-storage-value"
+        }
+      ]
+    }
+  ]
+}
