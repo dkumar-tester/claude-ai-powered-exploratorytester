@@ -1,0 +1,1 @@
+find tests -name "*.spec.ts" -type f | sort

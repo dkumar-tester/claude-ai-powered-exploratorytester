@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Credentials — never commit these
+config.json
+auth/auth-state.json
+
+# Playwright output
+test-results/
+playwright-report/
+dist/
